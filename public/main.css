@@ -144,7 +144,7 @@ polyline{
     fill: none;
 }
 #dChart {
-    width: 475px;
+    width: 500px;
     height: 320px;
     margin: auto;
 }
@@ -184,3 +184,4 @@ body {
     display: block;
     margin: auto;
 }
+
